@@ -98,3 +98,8 @@ nohup /usr/bin/v2ray/v2ray -config /etc/v2ray/config.json >> v2ray_run.log 2>&1 
 
 保存并执行： chmod a+x v2ray_logrun.sh && sh v2ray_logrun.sh
 ```
+
+### Thanks:
+[ColetteContreras/v2ray-ssrpanel-plugin](https://github.com/ColetteContreras/v2ray-ssrpanel-plugin)
+
+[rico93/v2ray-sspanel-v3-mod_Uim-plugin](https://github.com/rico93/v2ray-sspanel-v3-mod_Uim-plugin)
